@@ -1,0 +1,15 @@
+Steps to Run the Mini Alexa Assistant
+Step 1: Install Required Python Packages
+Open Command Prompt in your project directory (where requirements.txt is located).
+
+Run the following command to install all dependencies:
+
+pip install -r requirements.txt
+
+Step 2: Run the Mini Alexa Script
+In the same terminal window, execute the Python script:
+
+python minialexa.py
+
+This will launch your voice assistant. Make sure your microphone is enabled and connected properly.
+
