@@ -1,7 +1,7 @@
-speech_recognition
-datetime
+speechrecognition
 pyttsx3
 wikipedia
-webbrowser
 pywhatkit
-PyAuido
+pygame
+pyaudio
+
